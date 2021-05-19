@@ -1,4 +1,4 @@
-# CS6120-PS2
+# NLP - Language Modeling
 In this repository, there are two Jupyter notebooks, each of which contains two tasks and their relevant instructions.
 
 ## Assignment Instructions:
